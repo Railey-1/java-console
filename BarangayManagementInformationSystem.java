@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-
+// Railey
 public class BarangayManagementInformationSystem {
 	static Scanner s = new Scanner(System.in);
 	// admin account
